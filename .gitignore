@@ -1,0 +1,20 @@
+target/
+.idea/
+*.iml
+
+.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### Logs ###
+*.log
+
+### OS ###
+.DS_Store
+Thumbs.db
